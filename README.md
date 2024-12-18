@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋
+----------
+
+- 🔭 I’m currently working on freelance projects for architecture brands.
+- 🌱 I’m currently learning **Astro** and **Effect**
+- 📖 I'm reding **Mindset: The New Psychology of Success: Dweck, Carol S**.
 
 <!--
 **suabochica/suabochica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
