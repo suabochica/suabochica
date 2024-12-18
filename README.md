@@ -5,6 +5,11 @@ Hi there 👋
 - 🌱 I’m currently learning **Astro** and **Effect**
 - 📖 I'm currently reading **Mindset: The New Psychology of Success: Dweck, Carol S**.
 
+📊 GitHub Stats
+---------------
+
+![suabochica's Stats](https://github-readme-stats.vercel.app/api?username=suabochica&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 <!--
 **suabochica/suabochica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
