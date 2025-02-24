@@ -1,9 +1,9 @@
 Hi there 👋
 ----------
 
-- 🔭 I’m currently working on freelance projects for architecture brands.
+- 🔭 I’m currently working on Mercado Libre.
 - 🌱 I’m currently learning **Astro** and **Effect**
-- 📖 I'm currently reading **Mindset: The New Psychology of Success: Dweck, Carol S**.
+- 📖 I'm currently reading **Where good ideas come from: Johnson, Steven**.
 
 📊 GitHub Stats
 ---------------
