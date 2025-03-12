@@ -3,7 +3,7 @@ Hi there 👋
 
 - 🔭 I’m currently working on Mercado Libre.
 - 🌱 I’m currently learning **Astro** and **Effect**
-- 📖 I'm currently reading **Where good ideas come from: Johnson, Steven**.
+- 📖 I'm currently reading **Era más grande el muerto: Luis Miguel Rivas**.
 
 📊 GitHub Stats
 ---------------
