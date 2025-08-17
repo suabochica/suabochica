@@ -1,9 +1,9 @@
 Hi there 👋
 ----------
 
-- 🔭 I’m currently working on Mercado Libre.
-- 🌱 I’m currently learning **Astro** and **Effect**
-- 📖 I'm currently reading **Era más grande el muerto: Luis Miguel Rivas**.
+- 🔭 I’m currently working on **Mercado Libre**.
+- 🌱 I’m currently learning **React Query** from ui.dev.
+- 📖 I'm currently reading **The Creative Act, Rick Rubin**.
 
 📊 GitHub Stats
 ---------------
