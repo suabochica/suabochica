@@ -1,9 +1,9 @@
 Hi there 👋
 ----------
 
-- 🔭 I’m currently working on **Mercado Libre**.
+- 🔭 I’m currently working on **Freelance Projects**.
 - 🌱 I’m currently learning **React Query** from ui.dev.
-- 📖 I'm currently reading **The Creative Act, Rick Rubin**.
+- 📖 I'm currently reading **The 48 Laws of Power, Robert Greene**.
 
 📊 GitHub Stats
 ---------------
