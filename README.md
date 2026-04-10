@@ -2,13 +2,8 @@ Hi there 👋
 ----------
 
 - 🔭 I’m currently working on **Freelance Projects**.
-- 🌱 I’m currently learning **React Query** from ui.dev.
+- 🌱 I’m currently learning **Deno** from fireship.io.
 - 📖 I'm currently reading **The 48 Laws of Power, Robert Greene**.
-
-📊 GitHub Stats
----------------
-
-![suabochica's Stats](https://github-readme-stats.vercel.app/api?username=suabochica&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 <!--
 **suabochica/suabochica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
