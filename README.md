@@ -3,7 +3,7 @@ Hi there 👋
 
 - 🔭 I’m currently working on **Freelance Projects**.
 - 🌱 I’m currently learning **Deno** from fireship.io.
-- 📖 I'm currently reading **The 48 Laws of Power, Robert Greene**.
+- 📖 I'm currently reading **Control, Freddy Vega**.
 
 <!--
 **suabochica/suabochica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
