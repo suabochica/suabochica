@@ -2,8 +2,8 @@ Hi there 👋🏾
 ----------
 
 - 🔭 I’m currently working on **Freelance Projects**.
-- 🌱 I’m currently learning **Deno** from fireship.io.
-- 📖 I'm currently reading **Control, Freddy Vega**.
+- 🌱 I’m currently learning **Svelte** from fireship.io.
+- 📖 I'm currently reading **La hora de los lobos, Mario Mendoza**.
 
 <!--
 **suabochica/suabochica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
