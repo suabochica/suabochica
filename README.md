@@ -3,7 +3,7 @@ Hi there 👋🏾
 
 - 🔭 I’m currently working on **Freelance Projects**.
 - 🌱 I’m currently learning **Svelte** from fireship.io.
-- 📖 I'm currently reading **La hora de los lobos, Mario Mendoza**.
+- 📖 I'm currently reading **The Artist's Way, Julia Cameron**.
 
 <!--
 **suabochica/suabochica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
