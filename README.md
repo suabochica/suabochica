@@ -2,7 +2,7 @@ Hi there 👋🏾
 ----------
 
 - 🔭 I’m currently working on **Freelance Projects**.
-- 🌱 I’m currently learning **Svelte** from fireship.io.
+- 🌱 I’m currently learning **NestJS** from freeCodeCamp.
 - 📖 I'm currently reading **The Artist's Way, Julia Cameron**.
 
 <!--
