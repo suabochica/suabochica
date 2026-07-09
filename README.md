@@ -2,8 +2,9 @@ Hi there 👋🏾
 ----------
 
 - 🔭 I’m currently working on **Freelance Projects**.
-- 🌱 I’m currently learning **NestJS** from freeCodeCamp.
-- 📖 I'm currently reading **The Artist's Way, Julia Cameron**.
+- 🌱 I’m currently learning **Claude** from Skilljar.
+- 📖 I'm currently reading **Kokoro, Notsume Sõseki**.
+- ⚡ Fun fact: Check my Duolingo streak
 
 <!--
 **suabochica/suabochica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
