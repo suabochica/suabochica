@@ -2,8 +2,8 @@ Hi there 👋🏾
 ----------
 
 - 🔭 I’m currently working on **Freelance Projects**.
-- 🌱 I’m currently learning **Claude** from Skilljar.
-- 📖 I'm currently reading **Kokoro, Notsume Sõseki**.
+- 🌱 I’m currently learning **FullStack jscamp** from midudev.
+- 📖 I'm currently reading **Maestría, Robert Greene**.
 - ⚡ Fun fact: Check my Duolingo streak
 
 <!--
