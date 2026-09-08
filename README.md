@@ -2,7 +2,7 @@ Hi there 👋🏾
 ----------
 
 - 🔭 I’m currently working on **Freelance Projects**.
-- 🌱 I’m currently learning **FullStack jscamp** from midudev.
+- 🌱 I’m currently learning **Backend Developer with Python** from Udacity.
 - 📖 I'm currently reading **Maestría, Robert Greene**.
 - ⚡ Fun fact: Check my Duolingo streak
 
