@@ -12,7 +12,7 @@ Experience in collaborative work methodologies such as SCRUM.
 
 ### Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-2d2d2d.svg?logo=html&logoColor=#dd4a24)
+![HTML](https://img.shields.io/badge/HTML-2d2d2d.svg?logo=html5&logoColor=#dd4a24)
 ![CSS](https://img.shields.io/badge/CSS-2d2d2d.svg?logo=css&logoColor=#0067ba)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2d2d2d.svg?logo=javascript&logoColor=#efd81d)
 ![TypeScript](https://img.shields.io/badge/TypeScript-2d2d2d.svg?logo=typescript&logoColor=#0f0220)
