@@ -7,7 +7,7 @@ Experience in collaborative work methodologies such as SCRUM.
 
 - 🔭 I’m currently working on **Freelance Projects**.
 - 🌱 I’m currently learning **Harbor framework** for train AI models.
-- 📖 I'm currently reading **Atomic Habit, James Clear**.
+- 📖 I'm currently reading **Atomic Habits, James Clear**.
 - ⚡ Fun fact: Check my Duolingo streak
 
 ### Tech Stack
